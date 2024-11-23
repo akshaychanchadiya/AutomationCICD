@@ -16,6 +16,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class StandAloneTest {
 
+//new commands are added for demo CICD
+
 	public static void main(String[] args) {
 		String productName = "ZARA COAT 3";
 		WebDriverManager.chromedriver().setup();
